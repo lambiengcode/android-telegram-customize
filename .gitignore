@@ -5,5 +5,5 @@ obj/
 *.iml
 local.properties
 TMessagesProj/src/main
-TMessagesProj/jni
+TMessagesProj
 TMessagesProj/.cxx/cmake
