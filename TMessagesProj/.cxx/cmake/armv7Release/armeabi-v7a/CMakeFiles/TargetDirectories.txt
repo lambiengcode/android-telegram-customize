@@ -1,0 +1,15 @@
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/tmessages.38.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/rlottie.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/tgcalls.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/tgcalls_tp.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/mozjpeg.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/sqlite.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/cpufeatures.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/voipandroid.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/lz4.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/tgnet.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/webp.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/tgvoip.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7Release/armeabi-v7a/CMakeFiles/flac.dir

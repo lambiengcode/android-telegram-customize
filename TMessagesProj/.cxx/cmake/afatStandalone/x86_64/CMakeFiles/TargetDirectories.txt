@@ -1,0 +1,15 @@
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/rebuild_cache.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/edit_cache.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/tmessages.38.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/rlottie.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/tgcalls.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/tgcalls_tp.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/mozjpeg.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/sqlite.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/cpufeatures.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/voipandroid.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/lz4.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/tgnet.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/webp.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/tgvoip.dir
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatStandalone/x86_64/CMakeFiles/flac.dir

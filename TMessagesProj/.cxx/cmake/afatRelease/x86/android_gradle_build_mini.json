@@ -1,0 +1,105 @@
+{
+  "buildFiles": [
+    "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/jni/CMakeLists.txt",
+    "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/jni/voip/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "lz4-Release-x86": {
+      "artifactName": "lz4",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" lz4",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/liblz4.a",
+      "runtimeFiles": []
+    },
+    "mozjpeg-Release-x86": {
+      "artifactName": "mozjpeg",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" mozjpeg",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libmozjpeg.a",
+      "runtimeFiles": []
+    },
+    "tgcalls-Release-x86": {
+      "artifactName": "tgcalls",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" tgcalls",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libtgcalls.a",
+      "runtimeFiles": []
+    },
+    "flac-Release-x86": {
+      "artifactName": "flac",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" flac",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libflac.a",
+      "runtimeFiles": []
+    },
+    "sqlite-Release-x86": {
+      "artifactName": "sqlite",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" sqlite",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libsqlite.a",
+      "runtimeFiles": []
+    },
+    "tmessages.38-Release-x86": {
+      "artifactName": "tmessages.38",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" tmessages.38",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/build/intermediates/cmake/afatRelease/obj/x86/libtmessages.38.so",
+      "runtimeFiles": []
+    },
+    "tgcalls_tp-Release-x86": {
+      "artifactName": "tgcalls_tp",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" tgcalls_tp",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libtgcalls_tp.a",
+      "runtimeFiles": []
+    },
+    "tgvoip-Release-x86": {
+      "artifactName": "tgvoip",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" tgvoip",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libtgvoip.a",
+      "runtimeFiles": []
+    },
+    "voipandroid-Release-x86": {
+      "artifactName": "voipandroid",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" voipandroid",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libvoipandroid.a",
+      "runtimeFiles": []
+    },
+    "tgnet-Release-x86": {
+      "artifactName": "tgnet",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" tgnet",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libtgnet.a",
+      "runtimeFiles": []
+    },
+    "cpufeatures-Release-x86": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" cpufeatures",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libcpufeatures.a",
+      "runtimeFiles": []
+    },
+    "rlottie-Release-x86": {
+      "artifactName": "rlottie",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" rlottie",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/librlottie.a",
+      "runtimeFiles": []
+    },
+    "webp-Release-x86": {
+      "artifactName": "webp",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86\" webp",
+      "abi": "x86",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatRelease/x86/libwebp.a",
+      "runtimeFiles": []
+    }
+  }
+}

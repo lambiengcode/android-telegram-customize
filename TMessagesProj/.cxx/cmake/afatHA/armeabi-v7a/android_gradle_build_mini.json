@@ -1,0 +1,105 @@
+{
+  "buildFiles": [
+    "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/jni/CMakeLists.txt",
+    "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/jni/voip/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "sqlite-Release-armeabi-v7a": {
+      "artifactName": "sqlite",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" sqlite",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libsqlite.a",
+      "runtimeFiles": []
+    },
+    "tgnet-Release-armeabi-v7a": {
+      "artifactName": "tgnet",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" tgnet",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libtgnet.a",
+      "runtimeFiles": []
+    },
+    "voipandroid-Release-armeabi-v7a": {
+      "artifactName": "voipandroid",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" voipandroid",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libvoipandroid.a",
+      "runtimeFiles": []
+    },
+    "flac-Release-armeabi-v7a": {
+      "artifactName": "flac",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" flac",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libflac.a",
+      "runtimeFiles": []
+    },
+    "tmessages.38-Release-armeabi-v7a": {
+      "artifactName": "tmessages.38",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" tmessages.38",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/build/intermediates/cmake/afatHA/obj/armeabi-v7a/libtmessages.38.so",
+      "runtimeFiles": []
+    },
+    "tgcalls-Release-armeabi-v7a": {
+      "artifactName": "tgcalls",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" tgcalls",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libtgcalls.a",
+      "runtimeFiles": []
+    },
+    "mozjpeg-Release-armeabi-v7a": {
+      "artifactName": "mozjpeg",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" mozjpeg",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libmozjpeg.a",
+      "runtimeFiles": []
+    },
+    "rlottie-Release-armeabi-v7a": {
+      "artifactName": "rlottie",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" rlottie",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/librlottie.a",
+      "runtimeFiles": []
+    },
+    "webp-Release-armeabi-v7a": {
+      "artifactName": "webp",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" webp",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libwebp.a",
+      "runtimeFiles": []
+    },
+    "lz4-Release-armeabi-v7a": {
+      "artifactName": "lz4",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" lz4",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/liblz4.a",
+      "runtimeFiles": []
+    },
+    "cpufeatures-Release-armeabi-v7a": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" cpufeatures",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libcpufeatures.a",
+      "runtimeFiles": []
+    },
+    "tgcalls_tp-Release-armeabi-v7a": {
+      "artifactName": "tgcalls_tp",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" tgcalls_tp",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libtgcalls_tp.a",
+      "runtimeFiles": []
+    },
+    "tgvoip-Release-armeabi-v7a": {
+      "artifactName": "tgvoip",
+      "buildCommand": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a\" tgvoip",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatHA/armeabi-v7a/libtgvoip.a",
+      "runtimeFiles": []
+    }
+  }
+}

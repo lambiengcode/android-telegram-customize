@@ -1,0 +1,7 @@
+Executable : /Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a
+tmessages.38
+jvmArgs : 
+

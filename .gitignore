@@ -4,4 +4,4 @@ build/
 obj/
 *.iml
 local.properties
-TMessagesProj/.cxx/cmake
+TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libtgcalls.a

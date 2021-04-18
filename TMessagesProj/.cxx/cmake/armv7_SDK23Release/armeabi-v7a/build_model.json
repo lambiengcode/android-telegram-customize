@@ -1,0 +1,209 @@
+{
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 23,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7_SDK23Release/armeabi-v7a",
+    "cmakeServerLogFile": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7_SDK23Release/armeabi-v7a/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cxx/armv7_SDK23Release/armeabi-v7a",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7_SDK23Release/armeabi-v7a",
+      "cmakeToolchain": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+      "variables": [
+        {
+          "name": "CMAKE_FIND_ROOT_PATH",
+          "value": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7_SDK23Release/prefab/armeabi-v7a/prefab"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Release"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "armeabi-v7a"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "armeabi-v7a"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/build/intermediates/cmake/armv7_SDK23Release/obj/armeabi-v7a"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "23"
+        },
+        {
+          "name": "ANDROID_STL",
+          "value": "c++_static"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-16"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7_SDK23Release/armeabi-v7a",
+  "info": {
+    "abi": "ARMEABI_V7A",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7_SDK23Release/armeabi-v7a",
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_static",
+      "-DANDROID_PLATFORM\u003dandroid-16",
+      "-j\u003d16"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cFlagsList": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [],
+    "isDebuggableEnabled": false,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/Users/lambiengcode/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+      },
+      "cmakeToolchainFile": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+      "cxxFolder": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx",
+      "gradleModulePathName": ":TMessagesProj",
+      "intermediatesFolder": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/build/intermediates",
+      "makeFile": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/jni/CMakeLists.txt",
+      "moduleBuildFile": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/build.gradle",
+      "moduleRootFolder": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj",
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkFolder": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 29,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29
+        }
+      },
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkVersion": "21.1.6352462",
+      "project": {
+        "compilerSettingsCacheFolder": "/Volumes/src/mobile/native/kotlin/Telegram/.cxx",
+        "cxxFolder": "/Volumes/src/mobile/native/kotlin/Telegram/.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "/Volumes/src/mobile/native/kotlin/Telegram",
+        "sdkFolder": "/Users/lambiengcode/Library/Android/sdk",
+        "isPrefabEnabled": false
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/lambiengcode/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/build/intermediates/cmake/armv7_SDK23Release/obj",
+    "variantName": "armv7_SDK23Release",
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "prefabDirectory": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7_SDK23Release/prefab",
+    "prefabPackageDirectoryList": []
+  },
+  "prefabFolder": "/Volumes/src/mobile/native/kotlin/Telegram/TMessagesProj/.cxx/cmake/armv7_SDK23Release/prefab/armeabi-v7a"
+}
