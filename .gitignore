@@ -4,4 +4,6 @@ build/
 obj/
 *.iml
 local.properties
-TMessagesProj
+TMessagesProj/src/main
+TMessagesProj/jni
+TMessagesProj/.cxx/cmake
